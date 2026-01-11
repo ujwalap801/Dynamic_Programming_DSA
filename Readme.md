@@ -6,4 +6,10 @@
 
 ## [House_Robber](https://leetcode.com/problems/house-robber/)
 
+## [House_Robber_2](https://leetcode.com/problems/house-robber-ii/)
+
+## [Longest_Palindrome_Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+
 ## [Minimum_Cost_TOCLIMB](https://leetcode.com/problems/min-cost-climbing-stairs/)
+
+## [Palindrome_Substring](https://leetcode.com/problems/palindromic-substrings/description/)
