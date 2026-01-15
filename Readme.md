@@ -12,7 +12,10 @@
 
 ## [Longest_Palindrome_Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 
-## [MaxSubArray]
+## [MaxSubArray](https://leetcode.com/problems/maximum-subarray/)
+
+## [Max_Product_SubArray](https://leetcode.com/problems/maximum-product-subarray/)
+
 ## [Minimum_Cost_TOCLIMB](https://leetcode.com/problems/min-cost-climbing-stairs/)
 
 ## [Palindrome_Substring](https://leetcode.com/problems/palindromic-substrings/description/)
