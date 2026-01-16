@@ -28,3 +28,30 @@ var maxProduct = function(arr) {
   
     return total;
 };
+
+
+
+// 2ND APPROACH
+
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var maxProduct = function(arr) {
+    let n = arr.length;
+    let leftProd = rightProd =1;
+    let max = -Infinity;
+    for(let i=0; i<n;i++)
+    {
+       leftProd =  leftProd *arr[i];
+       rightProd = rightProd *arr[n-i-1];
+       max= Math.max(leftProd, max, rightProd);
+       if(leftProd ===0 ) leftProd =1;
+       if(rightProd ===0) rightProd =1;
+
+    }
+
+    return max;
+
+    
+};
