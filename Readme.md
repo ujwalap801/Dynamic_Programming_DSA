@@ -10,6 +10,8 @@
 
 ## [House_Robber_2](https://leetcode.com/problems/house-robber-ii/)
 
+## [Longest_Increasing_Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+
 ## [Longest_Palindrome_Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 
 ## [MaxSubArray](https://leetcode.com/problems/maximum-subarray/)
