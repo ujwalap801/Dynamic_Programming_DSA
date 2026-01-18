@@ -22,4 +22,7 @@
 
 ## [Palindrome_Substring](https://leetcode.com/problems/palindromic-substrings/description/)
 
+## [Partition_Equal_Subset_Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+
+
 ## [Word_Break](https://leetcode.com/problems/word-break/)
