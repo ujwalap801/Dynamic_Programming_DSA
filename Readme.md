@@ -24,5 +24,6 @@
 
 ## [Partition_Equal_Subset_Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 
+## [Unique_Path](https://leetcode.com/problems/unique-paths/)
 
 ## [Word_Break](https://leetcode.com/problems/word-break/)
